@@ -13,6 +13,9 @@ Features:
 ✅ `.env` file support for API key security  
 ✅ Error handling for API rate limits & authentication issues  
 
+# 🎥 Demo Video  
+
+![Empathy AI Demo]()
 
 ## Installation
 🔹 Step 1: Clone the Repository
@@ -50,9 +53,10 @@ pip install -r requirements.txt
 OPENAI_API_KEY= 'your_openai_api_key_here'
 ```
 
-## 🔹  Step 6: Run Flask Application  
+## 🔹  Step 6: Run Flask Application
+Before running this you are venv enviornment
 ```python
-python main.py
+python app.py
 ```
 
 ✅ **By default, the app will redirect to the Register Page (`/register`).**  
