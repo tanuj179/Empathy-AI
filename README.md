@@ -2,7 +2,17 @@
 
 # Empathy AI
 
-🧠 Empathy AI - Mental Health Chatbot.
+🧠 Empathy AI is a mental health chatbot that provides emotional support using OpenAI's GPT-4o-mini.  
+Built with Flask, SQLite, and OpenAI API, it helps users express their emotions in a safe and empathetic space.  
+
+Features:  
+✅ Secure Login & Registration with Flask-Login  
+✅ AI-powered chatbot for mental health assistance  
+✅ Responsive UI with psychological color scheme  
+✅ SQLite database for user authentication  
+✅ `.env` file support for API key security  
+✅ Error handling for API rate limits & authentication issues  
+
 
 ## Installation
 🔹 Step 1: Clone the Repository
