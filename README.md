@@ -83,12 +83,6 @@ Make sure to update **documentation and tests** as appropriate.
 
 ---
 
-## License  
-
-[MIT](https://choosealicense.com/licenses/mit/)  
-
----
-
 ## ⭐ Star the Repository!  
 
 If you find this project helpful, please **⭐ star this repository** on GitHub! 🚀  
